@@ -1,0 +1,25 @@
+{
+  "name": "jsonwebtoken",
+  "version": "1.0.0",
+  "description": "Project which registers a user to db and then creates a jwt on successful login",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakshithkakathkar/JsonWebToken.git"
+  },
+  "author": "Rakshith Kakathkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakshithkakathkar/JsonWebToken/issues"
+  },
+  "homepage": "https://github.com/Rakshithkakathkar/JsonWebToken#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
